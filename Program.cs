@@ -12,6 +12,10 @@
 
         static void Main(string[] args)
         {
+            Console.WriteLine("Kady Tran - 5/30/2024");
+            Console.WriteLine("Lecture 12");
+            Console.WriteLine();
+
             Preload();
             PreloadExercises();
 
